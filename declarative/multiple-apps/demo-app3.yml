@@ -13,8 +13,7 @@ spec:
 
   # Source of the application manifests
   source:
-    repoURL: https://github.com/codefresh-contrib/gitops-certification-examples.git
-    targetRevision: HEAD
+    repoURL: https://github.com/Dev-Rohitb/gitops-argocd.git
     path: ./declarative/manifests
    
   # Destination cluster and namespace to deploy the application
